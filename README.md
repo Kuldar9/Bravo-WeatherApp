@@ -7,9 +7,27 @@ Project on figma:
 
 [Figma](https://www.figma.com/design/tssjT2gqnVWlsGoVLfPebI/Weather-app?node-id=13-2&t=vJgD1XTeoB6iGHDM-1)
 
-
-
-
 A little .gif file of the app:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![GIF](./Backend/video-clip/itDoesWork.gif)
 
