@@ -1,7 +1,7 @@
 # Bravo-WeatherApp
 Probably one of my most disliked projects, so this is not getting any improvements.
 
-App does load and does work.
+App does load and does work, gif has blurred section due to information accuracy. (No need to reveal my full address)
 
 Project on figma:
 
