@@ -1,0 +1,9 @@
+
+Python version: 3.12.3
+pip install -r requirements.txt
+
+
+1. Install all the required dependencies
+2. Start server.py
+3. Requests example: http://{Your public IP address}/weather/location/?input=Amsterdam&lat=59.487511&long=24.8652702
+   Note: leaving input empty or Null will only output weather info on the location of longitude and latitude. (Was useful for making weather app through only GET request in Bravo Studio)
