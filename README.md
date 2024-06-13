@@ -1,45 +1,36 @@
 # Bravo-WeatherApp
-Probably one of my most disliked projects, so this is not getting any improvements.
 
-App does load and does work, gif has blurred section due to information accuracy. (No need to reveal my full address)
+Task was to create a WeatherApp using Figma and Bravo Studio. Adding a backend was optional but provided additional points. To test the app with the frontend, you need to clone my Figma project, import it into Bravo Studio, and include the information seen in the screenshots below.
 
-Project on figma:
+Currently, the app runs exclusively through Bravo Studio's app environment, as generating an .apk file or using POST requests requires a paid subscription. Therefore, all functionality operates using GET requests only.
 
-[Figma](https://www.figma.com/design/tssjT2gqnVWlsGoVLfPebI/Weather-app?node-id=13-2&t=vJgD1XTeoB6iGHDM-1)
+## Project Overview
 
-A little .gif file of the app:
+Probably one of my least favorite projects, so no further improvements are planned.
 
+### App Functionality
 
+The application does load and function correctly. Certain sections of the GIF have been blurred to protect sensitive information (no full address reveal).
 
+### Project Links and Resources
 
+- **Figma Design:** [Weather-app on Figma](https://www.figma.com/design/tssjT2gqnVWlsGoVLfPebI/Weather-app?node-id=13-2&t=vJgD1XTeoB6iGHDM-1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### App Preview
 
 ![GIF](./Backend/video-clip/itDoesWork.gif)
 
-Project screenshots on Bravo Studio:
+### Screenshots from Bravo Studio
 
-![GETRequest](./Backend/video-clip/Screenshot_1.png)
+- GET Request Example:
+  ![GETRequest](./Backend/video-clip/Screenshot_1.png)
 
-Element bindings:
-
-![Input](./Backend/video-clip/Screenshot_2.png)
-![Button](./Backend/video-clip/Screenshot_3.png)
-![WeathersContainer](./Backend/video-clip/Screenshot_4.png)
-![ConditionBindingExample](./Backend/video-clip/Screenshot_5.png)
-
-
+- Element Bindings:
+  - Input:
+    ![Input](./Backend/video-clip/Screenshot_2.png)
+  - Button:
+    ![Button](./Backend/video-clip/Screenshot_3.png)
+  - Weather Containers:
+    ![WeathersContainer](./Backend/video-clip/Screenshot_4.png)
+  - Condition Binding Example:
+    ![ConditionBindingExample](./Backend/video-clip/Screenshot_5.png)
