@@ -4,6 +4,10 @@ Task was to create a WeatherApp using Figma and Bravo Studio. Adding a backend w
 
 Currently, the app runs exclusively through Bravo Studio's app environment, as generating an .apk file or using POST requests requires a paid subscription. Therefore, all functionality operates using GET requests only.
 
+## Backend Instructions
+
+The backend has a README file with a tutorial on how to start it up. Please refer to the instructions there for setting up the backend environment.
+
 ## Project Overview
 
 Probably one of my least favorite projects, so no further improvements are planned.
